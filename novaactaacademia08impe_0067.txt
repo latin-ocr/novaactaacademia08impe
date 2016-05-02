@@ -1,0 +1,48 @@
+HISTOIRE. ς,
+
+1 , l’integrale etant prise de-
+
+ 
+
+l'expreffion
+
+msxm &x μ -x)⁷²-¹
+puis αττ-το jusqu'a x: 1, sans demontrer direstement cette
+
+affertion dans le Met-noire cite. Une demonstration de la
+sommatiOn mentionnee&plufieurs transtrmations de la forme
+
+rapportee terminent le present Memoire.>
+
+IV.
+
+Exercitatio analytica.
+
+Aufiore L. Eulero.
+
+Sachant que le colinus de tout angle 'peut erre expri-
+me par un produit d⁷un nombre infini de fasteurs, savoir
+
+1
+
+c⁰ssffi3(1—nssa)(1'‘9‘12[2)(1—25n2>(etc·
+
+il se presente ici une question intereffante: comment, en sup-
+pos-ant la valeur de ce produit inconnue‚ on puiffe trouver
+d'une maniere facile sa valent cos. ἦ. C'est le sujet de ce
+
+petit Me'moire.
+
+ 
+
+Ayant pris les logarirhmes ὃς substituee :¹1 la place de cha'·
+cun sa valeur en serie, tout revient :i sommer les series recipro-
+ques des puiffances paires des nombres impsum, que M. Euler
+indique resped‘tivemeut par Αξῖ, 133⁴, (3ξῆ etc. Οὐ ξῖ-Ἲέ, δί
+en faisant usage des relations entre les lettres A, Β, C, D,
+etc. que l⁷on trouve demontree dans les Opuntem analytica,
+ὅ( afflenrs, il parvient εὶ trouver pour le produit en question
+la valeur connue cos. ,Ξῖ-ι.
+
+g 3 V·
+

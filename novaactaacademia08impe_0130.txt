@@ -1,0 +1,48 @@
+=== (36) ====
+
+quadraturas curuarum transcendentium exprimerentur, ita vc
+ista noua methodus maximam vtilitatem in Analyfin fit illatu- ’
+ra3 ea autem nititur reductione formularum integralium satis
+
+quidem cognita, quam autem ad nostrum vsum iu sequentibus
+Lemmatibus sum accommodaturus.
+
+Lemma Ι.
+
+§. 6. Si ponatur V z xa (1 -- κῦ)ἓ“, erit
+
+lealx÷{-l(1 —xb)‚
+'ac differentiando
+
+&V-aax—·c.rb-1 bx,
+b
+
+ 
+
+ 
+
+V x 1——x
+
+hinc per V multiplicando, iterumque integrando, perueniemus
+ad hanc reduc‘iionem:
+
+c e—-b
+
+sz⁰(1-xb)b“:asx‘¹-13x(1-x⁶)⁶“b—csx“÷b-¹3x(1-xb)†‚
+hincque binas sequentes 'reductiones deducimus:
+
+I.sx“·*¹ ὂχζῐψ-χόβξέξχαζι —xb)}÷}sxa÷b—1bx(1-xb)}-1
+
+11.sx‘²÷⁶-10x(1-x12)} ‘¹:—{x⁰(1-x²⁷>13³÷g-sx⁶-¹ax(1—xb)1f‘.'
+
+Corollarium.
+
+ς. 7. Quodfi haec integralia a termino ,νεῖ-ο vsque
+ad terminum x: 1 extendi debcant, atque ‘omnes exponen-
+tes α, bete. fuerint positiui⁷ tum in vtraque reduffione mem-
+bffim ablebt‘ssicum penitus ‘cx comparatione tollitur, quippe
+quod euanescit, fafto tam x: 0 quam x: 1, atque binae
+reductiones inuentae ita ie habebunt:
+
+1.
+

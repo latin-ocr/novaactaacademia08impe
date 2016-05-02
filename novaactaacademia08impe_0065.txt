@@ -1,0 +1,49 @@
+H‘ISTOIRE. 51
+
+Memoire une demonstration tres facile, qui, quoiqu'elle pa-
+roisse restreinte aux exposans m δε n entim-s, doit pourtant ‚
+en vertu du principe de la continuite, valois auffi pour des
+exposans frae‘tionnaires quelconques.
+
+Cependant comme non seulement cette serie, mais
+auffi tontes les autres progreffions, formees d’une muniere
+semblable des co‘e'fficiens de deux puiffances differentes du
+Binome‚ sont exprimees pau· la quadrature de courbes plus
+ou moins transcendante53 l'auteur expose ici une methodo,
+d'exprimer les sommes des memes series par la quadrature de
+courbes algebriques, pour des exposans fradssssionnaires quel-
+conques. Les reduffi011s, sur lesquelles cette methode est
+fondee, etant trop nombreuses‚ pour etre susceptibles d’ex- ¹
+traits‚ nous nous contenterons de rapporter les series que M.
+Euler a soumises ὲ ses recherches, avec l⁷expreffion de leurs
+sommes.
+
+En mettant donc
+1
+
+:14—Axb-Js-Bx2b-l—Cx3b—1-etc,
+
+ 
+
+(1 — xby}
+
+1
+
+ 
+
+(L
+
+(Ι -χῑ7)ἴ
+
+:1—l—91xb-l-ffix2b—i—(Sx3b-l—ctc.
+
+M. Euler donne les sommations suivantes:
+
+1÷A²÷B²÷C²÷D²÷etc.:¹{s———·bxa—¹3x ο
+
+Ϋ(Ι-κῑ’)“
+1÷21A÷ffiss÷ec÷etc.:L „Q
+
+Δ ffffi—xby‘ffl'
+g 2 1 -{—-
+

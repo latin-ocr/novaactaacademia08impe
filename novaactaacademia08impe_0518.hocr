@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademia08impe_0518.png"; bbox 0 0 2810 1762; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1620 75 2613 144">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1620 75 2613 144">
+     <span class='ocr_line' id='line_1_1' title="bbox 1620 75 2613 144; baseline 0.009 -31"><span class='ocrx_word' id='word_1_1' title='bbox 1620 80 1732 114; x_wconf 67' lang='lat' dir='ltr'><em>[Vowa</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1745 87 1836 115; x_wconf 66' lang='lat' dir='ltr'><em>Aeta</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1849 75 1964 116; x_wconf 68' lang='lat' dir='ltr'><em>Amas.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1976 84 2126 144; x_wconf 55' lang='lat' dir='ltr'><em>‘sc-Imst:</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2135 80 2547 144; x_wconf 45' lang='grc' dir='ltr'><em>ῘὲίνιρυοίΪῙὺηΛΜΖῖιᾶ.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2558 93 2613 123; x_wconf 70' lang='lat'><em>11⁷,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 321 226 2526 1557">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 321 226 2526 1557">
+     <span class='ocr_line' id='line_1_2' title="bbox 321 226 2526 1557"><span class='ocrx_word' id='word_1_7' title='bbox 321 226 2526 1557; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,46 @@
+-- <1³1>=
+
+ 
+
+siue εμ>ο, quod vtique euenit, quia μ supponitur pofiti·
+vum. 'Simul vero hinc patet, fi μ cffet negatiuum‚ tum spa-
+tium qiiaefitum futurum effe infinitum, quae circumstantia etiam
+in casu primo locum habet.
+
+§. 28. His igitur tribus casibus coniunctis summo vi-
+gore euistum est, spatium inter has Hyperbolas et suas assym-
+totas inclusum semper sore finitae magnitudinis, fi modo lit-
+terae μ et ν fuerint poffliuae, vti quidem affumfimus; tum
+autem fraCtio g- vnitate erit maior, altera vero fractio {L vnita-
+te minor, quae frastiones cum permutationes patiantur, sequi-
+
+α
+
+tur, quoties ambarum harum fractionum - et Ἃ altera fuerit
+
+ᾱ
+vnitate maior, altera minor, toties spatiti3m memoratum fini-
+tam habiturum effe magnitudinem, simul vero quoque demori-
+stratum est, fi vel ambae hae fractiones fuerint maiores vnitate
+vel minores, toties istud spatium* effe infinitum.
+
+ᾗ, 29. Ηειέὶεηιῑε quidem contenti fuimus eos casus
+assignare, quibus spatium memoratum habeat finitam quantita·
+tem, neque vero solliciti fuimus de vera eius quantitate,
+quae plerumque formulas integrales intractabiles postulat, vbi
+scilicet integratio ad quantitates maxime transcendentes affur-
+geret. Casum igitur satis memorabilem subiungamus, quo ip-
+
+sam istam aream adeo algebraice satis simplici modo exprime-
+re licet.
+
+Problema.
+
+Sz· natura curuae hyperbolicae hac aequatione fuerit ex-
+preffa: a xa γβ-4- b κβ y0‘: c, vbi coefficientes a, b, c, omnes
+stnt politius, exponentes vero a. et β ita comparati, vt eorum
+fiuuma vultati aequetur, aream inuestigare, quam istae curuae in
+infinitum proauaae intra suas affymtotas includunt.
+
+R 2 Solu-
+

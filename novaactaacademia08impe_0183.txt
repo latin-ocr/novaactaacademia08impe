@@ -1,0 +1,37 @@
+,Ξ (89) Ε
+Prima Solutio
+, problematis propositi.
+§. ’4. Sit 'igitur vt ante arcus A225 et area secto· Τὼ. 11.
+
+ris A C ΖΞΣ, ita vt effe debeat ss: 472 Σ. Iam pro lu· Fig· 2·
+bitu accipiatur axis CB, quem normalis ad curnam ZR se-
+cet in puncto N,· tum vero ex C in istam normalem perpen-
+diculariter ducatur rec‘ta CP, ac vocata distantia CZ, vt ante, ·
+zzz,v ponantur insuper C Pzt et ZPzp, ita vt fit zz
+:pp-445, ductaque ad pune'tum proximum z reeta Cz, in
+eamque normali Z O, triangulum ZzO fimile erit triangulo
+
+C Z P; vnde cum fit z O z: &z et Zz Ξ bs, habebitur ista
+proportio:
+CZ:Zz:CP:zO:-ZP:ZO
+ztbszt23zzp: ’
+vnde primo colligitur Z O Ξ Ῥζῄς et t &s z z bz. Hinc ex
+valore Z O prodit elementum areae sefioris:
+ΕΖκΞόΣΞὲρόῖ,
+ideoque Σ z {sp ὂ s. Quare cum esse debeat s s z 4 n Σ ,
+erit differentiando:
+sbszznbzznp3s‚
+vnde colligitur s z n p. Hinc insignis proprietas curuae quaesi·
+
+tae statim innotescit, qua arcus curuaeAZ se semper habet ad
+rec'tam ZP:p in ratione data, scilicet vt n: 1.
+
+§. ς. Ducatur iam ex punito z pariter normalis ad
+curnam zR priori in R occurrens, eritque ZR radius osculi
+curuae quaesitae, quem nominemus ΣΥ. In hanc porro nor-
+malem z R ex centro C demittatur quoque perpendiculum Cp
+zt÷3t, priorem secans in 7r, et cum iam fit zpzpa-va,
+erit quoque ΖπΞρ-ι-ὂρ, vnde colligitur Pvrzsz et
+
+Noua Aeta Acad. Imp. Sc. T. VIII. M πρ
+

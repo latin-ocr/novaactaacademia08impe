@@ -1,0 +1,42 @@
+····-<183)-····
+
+ 
+
+ 
+
+quam enim huiusmodi disquisitiones parum arridere videntur
+plerisque Geometrarum nostri aevi, non deerunt tamen, qui-
+bus breuis excurfio in dereliecam quafi Geometriae prouinciam
+eo minus displicebit, fi egregiis proprietatibus huius curuae,
+iam olim a Geometris deteftis, aliquid addere nonnullaque
+emendare nobis contigerit.
+
+§. 2. Prius autem quam propositum argumentum ag·
+gredior‚ haud abs re erit generale Curuarum caul‘ticarum7 ex
+reflexione radiorum parallelorum natarum, problema resoluisse.
+Formulas porro inde natas ad Parabolam vulgarem referam,
+ponendo scilicet radios incidentes axi normales. Proprietates
+deinde praecipuas huius curuae ex relatione coordinatarum de-
+riuabo. Quomodo porro eas, de quibus hic potiffimum sermo
+est, per methodum tangentium inuersam eruere liceat, osten-
+dam, quo simul pateat, vtrum hae proprietates etiam aliis li-
+neis curuis competant, an veto loli causticae Parabolae. De· ’
+nique ipfius Problematis.‚ quod hisce disquisitionibus ansam
+praebuit, solutionem tradam.
+
+Problema generale.
+ᾗ. 3. Sl ex pundo lucido infinite remoso radii axi A Β Tab. lv.
+normales incidant in lineam curnam qummzmque A M Ν , determi- Fig. ¹·
+nare lineam cama-austicam α radiis reflexis formatam.
+
+SolutiO.
+
+Sit arcus curuae propositae A Μ ;-; s, et angulus in·
+cidentiae A M R Ξ Φ, erit pro radio proximo rm arculus
+M m z ὂ s et angulus Am r z <D —4— ὂ Φς ex natura autem
+reflexionis sequitur fore angulum Z M N Ξ A M R z (D. Tum
+vero ob angulum M Z m Ξ Μ sm — r m Z, nec uon M s m
+Ξ R M Ζ, sequitur fore M Z m Ξ R M Z — r m Z. Est vero
+
+R M Z
+

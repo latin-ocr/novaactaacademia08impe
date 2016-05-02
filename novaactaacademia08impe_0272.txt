@@ -1,0 +1,37 @@
+= (178) ἶ
+
+gle de 45⁰. Car soit M E une telle ligne, on a, εὶ cause de
+l'angle E Ξ 45⁰, BC Ξ Ε Β, ou ΑΕ Ξ BC — AB Ξ c—a,
+et P M--zy--E P ῐχ-ι-ε-α, c⁷est ἐι dire, yaeczx—a.
+Donc pour que lequation ne contienne que le point C, il faut
+qu⁷elle donne pour toute autre valeur hor-mis y:c‚ une va·
+leur imaginaire pour 1⁷abstifle ,κς partant elle doit avoir cette
+forme, x—a:(y——c) ls— 1.
+
+§. 9. Puisqu’on peut envisager le point comme un
+cercle d’un rayon qui s⁷est emmoni, soit C le centre dnm
+cercle donne, dont le rayon CM:b‚· soit AB:a‚ BCzc,
+AP:x‚ P M:y‚ & nous aurons CM21CD²÷DM⁸
+c⁷est ἰι dire, ΝΞ (a—x)²÷(y—c‘)²‚ ἃ pour le point C,
+ou b: ο, (x—a)² z-(y—cf, patrant x—az(y——c)V—-1.
+C’est donc, pour ainsi dire, l⁷equation generale pour le point
+geome rique, δε s1 requation d'une courbe donne pour une
+certaine valeur de y cette expreffion, x z a—÷- oll— 1, cela
+fait voit, que la courbe a un point isole pour l’absciffe xza.
+Les valeurs des coordonnees pour ce point ne sont pas ima-
+ginastes, mais elles appartlennent ἐι une serie infinie de va-
+leurs, qui tontes sont imaginnircs ’ἐι la reserve d⁷une seule. 11
+est essentiel de ne jamnis oublicr cette regie, lorsqu'on par·
+vient ὲ unc expression dc la forme suivante: κΞα-ι-ΟιἏ-Ι.
+
+§. 10. Cels} suffita, ἐι ce qui me semble, pour mon·
+trer, que lc zero imaginaire est veritablcment un zero recl,
+mais que neanmoins Pexpreffion <vll—1 fignifie quelque chose
+de plus que le ssmple zero, Pour le rendre encore plus evi·
+dent„ je semar-quemi, que cette expreffion ΟιΙ-Ῑ, :¹1 la·
+quelle on est parvenu par le calcul, resulte toujours d’une
+telle forme Zls— 1, Z c'tant une telle fonfiion de la varia-
+
+ble z, qui s³<3vanouit fi ron donne ἐι la lettre z une valent
+deter-
+

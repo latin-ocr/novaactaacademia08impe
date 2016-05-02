@@ -1,0 +1,71 @@
+—- (42) ---
+
+ 
+
+ 
+
+inuestigare summam huius seriei τ
+s: 1 ÷A²÷B2÷C²÷D²÷ etc.
+
+Solutio.
+Cum igitur fit
+
+(1-xb)—}:1÷xAxb ÷Bx²⁶÷cx³b-÷-ete.
+
+¹Dx
+
+multiplicemus vninque per ῃ , atque integrando
+
+b
+
+habebimus: νᾳ xb)
+
+1Dr — ·’ bx ÷A x‘²'*’¹’*¹.8r
+
+slbs(1-xb)²‘²ls(1—x²⁷⁶) ιίζῐιέ-ἒὲκῑη)
+
+γοα-ψ- b—1 ¹3x Υιι α-4-3ὸ-
+-ι- Rs} -ι- Cslbl x-Js- cte.
+ιβζι -— x)‘² 1l(1 — xm)
+Omnes autem has formulas integrales per quantitatem Δ ex·
+
+primere docuimus, qui valores fi substituantur, perueniemus
+ad iequentem seriem:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fbf—¹3³⁶ ΣΔ-ι-ΑΛΔ-ι-ΒΑΛ-ςζέᾼ
+ψζῐ-Αἶᾈ
+-ξ-Ο.Ξ.”-Ῠ-ἷ’.ἰῖ“ῒ”ἕ’.Δ etc.
+
+b 2b sb
+quae series manifesto redu itm ad hanc:
+
+Δ (t ÷A²÷ Β2 -1- C2—ff- D²—†—etc.)
+vnde seriei nostr·1e propofitae summa quaesita erit
+
+s—--s
+
+existente Δ- —
+
+ 
+
+1s(1—x⁶²> ‘¹
+
+ 
+
+b sm.‘¹ —-
+Corol-
+

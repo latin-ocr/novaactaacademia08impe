@@ -1,0 +1,33 @@
+HlsTOIRE. 47
+
+CLASSE MATHEMATIQUE
+
+E T
+PHYSICO - MATHEMATIQUE.
+
+1.
+Variae confiderationes circa series hypergeometricas.
+
+Amore L. Ectlero. pag. 3.
+
+Ce Memoire est une suite de celui qui a ete insere dans
+le volume precedent de nos Aftes δ( dont nous avons
+donne le precis dans l‘Histoire qui precede le dit Volume,
+page 38. L’Auteur continue ici ses recherches sur le terme
+general d'es series hypergeometriques, en confiderunt particu-
+Iierement les trois produits infinis:
+
+αρτ-4· b)(a-÷-2b)(a—÷-3b)- - - -[a-÷-(i—1)b]:1*:i‚
+
+a(cz—÷- zb) (a—1-4l1) (0406b)- ·- · -[a÷(2i—-2)b] :A:i‚
+
+(a÷b) (a43b) (045b) - - - -[a-÷-(2i-1)b]:e):i‚
+
+dont il cherche les valeurs finies, en prena-nt les logarithmes,
+δ( appliquant aux series qui en resultent sa methode de trou-
+ver la somme des series pm· le moyen de leur terme gene-
+ral, ce qui, en remontant aux nombres, lui fournit les ex-
+
+preffions suivanteswz
+1': i
+

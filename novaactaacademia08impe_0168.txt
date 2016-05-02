@@ -1,0 +1,47 @@
+Tab Ι.
+Fig. 1.
+
+-- (74) ===
+
+ 
+
+cunque RC describatur circulus CM, quia eius radius osculi
+iu M cst M R, distantia praescripta AR vtique pro omnibus
+punctis M est eadem. Sicque problema propositum duplicem
+admittit solutionem, quarum altera praebet curuas ex euolu-
+tione circuli, cuius radius A C datur, nataS, altera vero com-
+plectitur infinities-infiuitos circulos, quorum centra a puncto
+Adatam teneant distantiam. Ex quo iam intelligimus, solutio·
+nem istius problematis analyticam ita comparatam efle debere,
+vt ambas solutiones memoratas in se complectatur.
+
+ς. 3. At vero solutio analytica haud parum debet:
+effe ardua, propterea quod radius osculi, qui per differentialia
+secundi gradus determinatur, iu computum ingreditur. Inte-
+rim tamen haec solutio sequenti modo commodissime institui
+polle videtur. Pofita distantia d1 a Achz7 pro punc‘to cur·
+vae quocunque M vocetur distantia ΑΜ-ε, duetaque ad M
+tangente MP, in eam ex A demittatur perpendiculum ΑΡ,
+quod vocemus ΑΡ Ξρ, ac primo quidem quaeramus aequa-
+tionem inter has binas variabiles AMzz et AP:p‚ quan-
+doquidem hinc deinceps haud difficulter aequatio inter co-
+ordinatas solitas deduci potest. Has autem binas variabiles
+ideo eligi conuenit, quod ex iis radius osculi M R simplicis-
+fime exprimi potest, siquidem habetur M R-*nj ita vt
+
+a
+tantum differentialia primi gradus inuoluat. Ρ
+
+§. 4. Quod fi iam ex A ad radium osculi MR du-
+catur normalis AQ quae tangenti MP etit parallela et ae-
+
+qualis, erit quoque MQ: AP:p‚ ideoque QRzfffpff -p.
+
+Quoniam igitur cst AQ: llz z—pp), ob AR-—a ha·
+bebitur ista aequatio pro curua quacfita:
+
+aa:(zz--pp) —l—(zssdf—pf, fiue
+aarzzz—pp-4-[z‘³²‘).-2'—--*P² apu-
+
+ 
+

@@ -1,0 +1,37 @@
+==<¹¹7)==.
+
+ᾗ. εξ Hic igitur potiffimum contemplabor eiusmodi
+Hyperbolas‚ quarum aequationes inter coordinatas x et ysunt
+trinomiales, cuiusmodi generatim haec est aequatio:
+
+Αχαλβ ’ΐ- Β x'yy‘y Ξ Co
+vbi quidem omnes exponentes α, β, «γ, δ, pontini, seu nihi·
+lo maiores effe debent‚— quia ahoquin, pofito x:o‚ applicata
+y non fieret infinita, vel non euanesceret pofito xzoo. Prac-
+terea etiam ad institutum nostrum requiritur, vt ambo coeffi-
+cientes A et B fint positiui. Si enim alter foret negantum,
+curua non vniformi trad‘tu intra affymtotas protenderetur, sed
+alicubi extra eas euagaretur3 vnde nihil impedit, quominus·
+statuamus BzA, atque adeo etiam C:A‚ ita vt habeamus
+x0‘753—t—x7yff: 1. Quae enim symtomata pro his curuis fue-
+rint inuenta, eadem facile transferentur ad casus, quibus isti
+coe'fficientes sunt inaequales·
+
+ᾗ. 3. Inter has autem curuas imprimis notatu dignae
+sunt eae, in quibus binas coordinatas x et y permutare inter
+se licet, id quod euenit quando ΎΞ β et δ :3 οι, vt aequa-
+tio fit x“yss—†—xs3y⁰‘: 1. Hoc enim modo ambo rami hu-
+ius curuae ad suas affymtotas pariter conuergent; ita vt fi spa-
+tium ad alterutram affymtotam relatum fuerit vel finitum, vet
+infinitum, etiam alterum eandem legem sequatur. Nunc igi-
+tur inuestigari conueniet, quemadmodum ambo exponentes α
+et β comparati effe debeant, vt valor formulae integralis lyBx‚
+a termino σεῖο vsque ad xzoo extensus, quantitati fini-
+tae aequalis euadat. Quoniam igitur istos exponentes α et β
+tanquam incognitos spmstamus, euidens est ex hac aequatione
+neque y per x, neque x per y definiri poffe.
+
+ᾗ. 4. Interim tamen determinatio areae huius curuae
+facile succedet, fi nouam variabilem in calculum introduca-
+P 3 mus,
+

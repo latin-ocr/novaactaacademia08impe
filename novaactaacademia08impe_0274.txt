@@ -1,0 +1,44 @@
+...- (130) ...--
+
+ 
+
+ 
+
+qui revient au meme, cette expression synonime ’ἕ ou σηοω-,-
+
+'il—1, veut dire, qu’il n'y a point de faeteur, quelque grand
+qu’il soit¹> qui etant multiplie par la quantite x, put produire
+une quantite imaginaire ls— 1: d’ou il suit sans doute, que
+acze, ou du moins qu⁷elle n’a pas une valeur imaginaire.
+
+ᾗ. 12. 11 reste encore ἐι appliquer ce que nous ve-
+nons de dire, ἐι la demonstration que M. Euler a donnee
+de sa Theorie des Logarirhmes. Il trouve cette expreflion
+generale: l(-÷- 1) Ξ 2 λπ 1l—— Ι, de laquelle fi λΞ 0 l'on
+deduit l<÷ 1) Ξ 0 ιλ- 1. Or comme j⁷ait fait voir, qu'une
+telle expreffion y :cll—1 indique toujours‚ que y appar-
+tient 31 une infinite de valeurs‚ qui toutes sont imaginaires
+ὲ l’exception d'une seule qui est y z ος il s'ensuit d'abord‚
+que chaque nombre pofitif a un seul Logarithme reel, mais
+une infinite' de Logarithmes imaginaires. C'est ce que M.
+Euler demontre de la maniere suivante: Polant l<÷ 1):y,
+on a (1 ÷})n— 1 ·;.- ο, n etant un nombre infini. Or le
+
+iasteur general de cette equation est
+(1 -}-})²-— 2 (1 —l-{) cos'ffissss—l— 1,
+qui dans le cas οὺ λῐο devient (1 -1-{3— 1)¹‚ d’ou l’on
+
+conclud que } :Q ou bien y: 0 .n. ll cst vrai, que la
+
+valcur de y paroit encore indererminee‚ parceque n:00;
+mais il suit du moins, que cette valcur de y est reelle7 par-
+ceque n est bien un nombre infini mais non pas imaginaire‚
+& que le produit 0.00 ne sauroit jamnis etre imaginaire. La
+valeus de y est donc melle, fi λε 03 mnis dans ce meme
+cas il est y :0 ιλ- ¹3 partant l‘expreslion 0 ψ- 1 a une
+valeur reelle, qui ne peut etre que celle y Ξ o.
+
+Les faeleurs firnples de l'equation (ι -f- }Y‘ — 1 z 0,
+sont
+¹ -f-
+

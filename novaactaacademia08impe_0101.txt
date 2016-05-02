@@ -1,0 +1,44 @@
+mma
+
+Δ t i: ’Μ’Ὑῒαζὶῗὲ) et Θ t Ζ· 2: ,ιχ nmiumg-u-Q’
+quandoquidem manifestum est effe Γ : 2 i: Δ : i . Θ : ἱ,- vbi
+meminisse oportet effe k z A: Ξ ‚ quod scilicet ex forma se·-
+
+cunda definiri debet, confiderando seriem
+
+aa (ΖΨ-μή), a(a-÷-2b)(a-÷-4b)‚ 0(0-⁴-2b>(a-÷-4b)(a÷6b)‚ etc.
+cuius terminum indici ξ respondentem defignauimus hac lit·
+tera k.
+
+ 
+
+ 
+
+ᾗ. 8. Iam ad istas formas accommodemus methodum
+generalem summandi omnis generis progreffiones per termi-
+num earum generalem, quae ita se habet, vt propofita serie
+quacunque A, B, C, D, E, etc. cuins terminus indici¹ inde·
+finito x respondens fit ΣΧ, eius summa
+
+A÷B÷C÷D÷ ...... Ὦ-Ξ-Χ,
+quam vocemus Ξ S, fit ν
+8--ῘΧόκ-ι-ΞΧ-ι-ἷῄὲ-Ξέζ-ὲΓΞζ-χξ-μπὲἲ,ἔξ-οη,
+
+vbi frac'tiones ἑ, ἑ, ξ, 3³5, ἑ, etc. sunt numeri Bernoulliani.
+
+Euolutio formae primae.
+a(a÷b)(a÷2b)(a÷3b) ...... [a÷(i—1)b]:P:l.
+
+ς. 9. Cum numerus fac‘torum hic consideretur vt in-
+finitus, quo methodum summandi ad eam applicare valeamus,
+confideremus eandem formam numero terminorum finito :x
+constantem, ac statuamus fimili modo
+
+a(a-÷-b) (a-4-2b) (cm-sb) ....... [a÷(x—1)b]:l':x.‘
+Nunc vero vt loco huius produc’ti seriem summandam nancis-
+
+camur, sumamus logarithmos‚ eritque
+Irzlea÷l(a-†-b)÷l(a÷ 2b)÷l(a-=-3b) . . . . l [a÷(x—1)b],'
+cuius ergo summa cum fuerit explorata, dabit logarithmum for-
+mulae
+

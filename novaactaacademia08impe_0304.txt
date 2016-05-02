@@ -1,0 +1,45 @@
+== (210) ...-
+
+ 
+
+tamen nobis liceat obseruare, hac menda, fi qua commissa
+cst, ipsum 'sheorem‘a nequaquam vitiari. Ad hoc ostenden-
+dum Theorema memoratum Eulerianum ipfis Aufioris verbis
+hic enunciabimus eiusque demonstrationem alio modo adorna-
+bimus; tum vero, quid de obiefflonibus R. P. Fontanae sen-
+tiendum fit, videbimus. Quo autem haec demonstratio facilius
+institui queat, aliquot Lemmata ei inseruientia praemittere eo
+minus alienum erit, quod eorum ope varia momenta demon-
+strationis Eulerianac ‚ quae vlteriore explicatione indigere vi-
+dentur, magis eluceicent.
+
+Lemma Ι.
+
+ς. 10. Series reciproca numerorum naturalz'um, flue series
+¹ harmonica fimplex:
+
+1÷{-÷—{÷{-÷-{-÷-}÷}÷etc.
+
+aequalis est huic prodcho ex infinitis saffioribus constanti:
+2. 3. ς. 7. 11. 13. 15. 17. etc.
+1. 2. 4. 6. 10. 12. 14. 16. etc.
+
+cuim numeratores sunt numeri primi , denominatores ‘vero itidem
+numeri primi &nitate minuti.
+
+Demonstratio.
+
+ 
+
+statuatur
+s: 1 4343 424-{4- etc.
+eritque
+{-s:-{÷{÷}-⁴·{÷÷1'5÷ etc.
+qua serie ab illa ablata remanet:
+{5:2- 1 434-2‘4—34-3-—4-12-4- etc.
+vbi igitur nulli denominatores pares occurrunt. Ab hac serie
+denuo aufferatur haec:
+
+{.{s:3÷3¹5÷2¹3÷2²1÷2¹7÷ etc.
+ac
+

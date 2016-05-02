@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademia08impe_0510.png"; bbox 0 0 1905 1990; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 704 157 1700 203">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 704 157 1700 203">
+     <span class='ocr_line' id='line_1_1' title="bbox 704 157 1700 203; baseline 0.02 -23"><span class='ocrx_word' id='word_1_1' title='bbox 704 157 813 182; x_wconf 59' lang='lat' dir='ltr'><em>JVoexz:</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 824 161 918 184; x_wconf 58' lang='lat' dir='ltr'><em>,qesta</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 934 157 1033 185; x_wconf 40' lang='lat' dir='ltr'><em>Asca)</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1046 160 1190 203; x_wconf 47' lang='lat' dir='ltr'><em>olrlnqv.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1202 163 1364 203; x_wconf 66' lang='lat' dir='ltr'><em>Pelmstol.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1374 166 1454 194; x_wconf 61' lang='lat' dir='ltr'><em>Dm</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1466 191 1471 194; x_wconf 96' lang='lat'>.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1484 170 1565 197; x_wconf 71' lang='lat' dir='ltr'><em>Wl.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1575 171 1650 200; x_wconf 66' lang='lat' dir='ltr'><em>TaA.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1658 178 1700 200; x_wconf 68' lang='lat' dir='ltr'><em>Is</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 360 293 1688 1834">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 360 293 1688 1834">
+     <span class='ocr_line' id='line_1_2' title="bbox 360 293 1688 1834; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 360 293 1688 1834; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

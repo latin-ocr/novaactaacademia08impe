@@ -1,0 +1,102 @@
+——(61)---=
+
+ 
+
+ 
+
+valorem eiusdem formulae (πὶ-Ρη) etiam poffe ad quadraturas
+
+n
+cui-uarum algebraicarum reuocari, quae adeo simpliciores pro-
+
+dierunt quam illae, quas methodo praxedenti sumus adepti,
+neque etiam eo incommodo laborant, vt pro diuersis expo-
+nentibus alias atque alias reduffiones postulent. Hanc igitur
+nouam methodum hic clarius sum expofiturus.
+
+§. 32. Haec autem methodus deducta est ex reduc·
+tionibus supra §. 12. allatis, vbi posuimus
+Azsx‘1-16x(1—-xb){“—¹
+Hic autem sumamus statim b Ξ 1 et a: 1, ita vt fit:
+Azsbxffi ——x)⁶-¹:·-{‚
+tum autem reduc‘iiones ᾗ. 12. allatae sequenti modo se habebunt:
+
+sxbx (I—x)⁶'‘¹:c-¹H·A‚
+
+sxxbx(1—x)⁶“¹: ¹ . ² .Δ,
+
+C-i-I c—Q-c.
+
+sx³Bx (1-——x)⁰—¹: ¹ . ² ,-3-,A'‚
+
+c—†- c-i-‘Z c-{·-3
+
+sx⁴bx (1———x>⁶*¹: ¹ . ² . ‘³ .-4»-.Δ,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Η
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c—÷-1 c—÷-2 c÷s (τὴ-4
+etc. etc.
+
+vnde concluditur in genere fore:
+
+sxkbxffi—x>⁰—¹:c‡1.ej4.c‡3 ..... ε-ζ-λ.Δ.
+0 §· 33· Quodsi iam postrema formula inuertatur‚ repe·
+rietur ·
+
+Δ —c—i-1 c÷2 043 c—-Q e÷>.
+sfide—xf—I- ι . 2 . 3 . 4 λ ‚
+
+hoc autem produehun, fi numeratores ordine inuerso scriban-
+tur, hanc induet formam:
+
+τιή-λ . ο-μλ-ι ο ε-μλ-α ο «ΗΛ-3 · ·
+1 2 3 ⁴ ·
+
+ 
+
+ 
+
+ 
+
+e÷1
+ο-ῑ,
+
+ 
+
+Η 3 · quam
+
